@@ -1,0 +1,16 @@
+# Ensure consistent line endings
+* text=auto eol=lf
+
+# Treat common binaries correctly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.zip binary
+*.step binary
+*.stp binary
+
+# KiCad files: keep as text for diffs
+*.kicad_sch text
+*.kicad_pcb text
+*.kicad_pro text
