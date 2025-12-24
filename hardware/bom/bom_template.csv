@@ -1,0 +1,5 @@
+Designator,Qty,Value,Footprint,Manufacturer,MPN,Notes
+R1,1,10k,0603,,,Pull-up
+C1,1,100nF,0603,,,Decoupling
+U1,1,MCU,QFN-48,,,Main microcontroller
+J1,1,Connector,Header_1x04,,,Programming/UART
